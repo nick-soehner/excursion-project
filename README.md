@@ -1,1 +1,1 @@
-#This is my excursion project for CodeCademy
+This is my excursion project for CodeCademy
